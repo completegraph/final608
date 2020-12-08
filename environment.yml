@@ -3,14 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - spyder
+  - folium
   - python=3
   - geopandas
   - matplotlib
   - descartes
-  - contextily
-  - dash
-  - folium
   - voila
   - bqplot
   - voila-gridstack
