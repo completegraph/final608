@@ -46,6 +46,7 @@ The code and data are publicly available on the github repository at `completegr
 The application is hosted at the link below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/completegraph/final608/master?urlpath=voila%2Frender%2Fcary_v3.ipynb)
+
 [https://mybinder.org/v2/gh/completegraph/final608/master?urlpath=voila%2Frender%2Fcary_v3.ipynb]
 
 
